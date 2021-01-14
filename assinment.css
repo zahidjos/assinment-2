@@ -1,0 +1,68 @@
+body{
+    font-family: 'Yusei Magic', sans-serif;
+    color:rgba(50, 28, 78, 0.897)
+  }
+  header{
+
+
+  }
+  .color{
+    color: rgb(255, 69, 0);
+  }
+    .item{
+          display: flex;
+    }
+    .item li a{
+        font-weight: bold;
+        margin: 20px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color:black;
+    }
+    .logo{
+      display: inline-block;
+      width: 40%;
+    }
+    .logo img{
+      width: 100%;
+    }
+     
+   
+   .box img{
+      width: 100%;
+   }
+   h1{
+     font-size: 65px;
+     line-height: 70px;
+   }
+   .item1{
+     padding:30px 0 0 180px;
+   }
+   .card-footer h2{
+     width: 30%;
+   }
+   .box{
+     border: none;
+     box-shadow: 2px 2px  2px gray;
+   }
+   .cont h2{
+     font-weight:bold ;
+   }
+   .card-title{
+     font-weight: bold;
+   }
+   .box1{
+     
+   }
+   .box1 img{
+width: 100%;
+   }
+   main{
+   /*  border: 2px solid red;*/
+     margin:15px 40px;
+     box-shadow: 3px 3px 3px gray;
+     border-radius: 5px;
+   }
+   main img{
+
+     width: 100%;
+   }
